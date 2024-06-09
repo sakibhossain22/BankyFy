@@ -1,19 +1,34 @@
-BankyFy offers fully customizable budget management, real-time financial insights, and smart savings tools. With personalized budgeting, instant notifications, and seamless account integration, managing your money is effortless. Achieve savings goals with automated features and track investments in real time. Enjoy a user-friendly interface, top-tier security, and 24/7 support. Choose BankyFy for smarter financial management.
+# BankyFy
+
+BankyFy is a comprehensive financial management application that helps users track expenses, manage budgets, and achieve savings goals.
+
+## Features
+
+- **Fully Customizable Budget Management:** Tailor your budget categories and set personalized spending limits.
+- **Real-time Financial Insights:** Get instant updates on your financial transactions and spending patterns.
+- **Smart Savings Tools:** Utilize automated features to save money effortlessly.
+- **Investment Tracking:** Keep track of your investment portfolios with real-time updates.
+- **User-Friendly Interface:** Enjoy a clean and intuitive interface for seamless navigation.
+- **Top-Tier Security:** Rest assured knowing your financial data is safe and secure.
+- **24/7 Customer Support:** Access dedicated support whenever you need assistance.
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sakibhossain22/BankyFy.git
+2.npm install
+3. npm run dev
+
+## Design Choices
+# Minimalist Design: Clean layouts and intuitive navigation for an enhanced user experience.
+# Color Schemes: Clear and readable color choices to facilitate better comprehension.
 
 
-
-Running the Project Locally:
-
-Clone the repository from GitHub.
-Install dependencies using npm install or yarn install.
-Run the development server using npm start or yarn start.
-Open your browser and navigate to localhost:5173 to view the project.
-Design Choices and Libraries Used:
-1.React
-2.Tailwind
-3.Javascript
-4.React Icon , much more
-Design Choices: The project follows a minimalist design approach with clean layouts and intuitive navigation. Color schemes aim for clarity and readability.
-Libraries: React.js is used for front-end development, with React Router for routing. Material-UI provides pre-designed components for a consistent user interface. Redux manages state efficiently.
-Figma Design Reference:
-This Figma design served as a reference point throughout the project, guiding decisions on layout, color schemes, and component design.
+## Libraries Used
+**React.js:** Front-end development.
+**Tailwind CSS**: Styling framework for efficient design implementation.
+**JavaScript:** Core programming language.
+**React Icon:** Icon library for visual elements.
