@@ -23,12 +23,12 @@ To run the project locally, follow these steps:
 3. npm run dev
 
 ## Design Choices
-# Minimalist Design: Clean layouts and intuitive navigation for an enhanced user experience.
-# Color Schemes: Clear and readable color choices to facilitate better comprehension.
+- Minimalist Design: Clean layouts and intuitive navigation for an enhanced user experience.
+- Color Schemes: Clear and readable color choices to facilitate better comprehension.
 
 
 ## Libraries Used
-**React.js:** Front-end development.
-**Tailwind CSS**: Styling framework for efficient design implementation.
-**JavaScript:** Core programming language.
-**React Icon:** Icon library for visual elements.
+- **React.js:** Front-end development.
+- **Tailwind CSS**: Styling framework for efficient design implementation.
+- **JavaScript:** Core programming language.
+- **React Icon:** Icon library for visual elements.
