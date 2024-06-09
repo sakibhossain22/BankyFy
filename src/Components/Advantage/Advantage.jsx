@@ -1,3 +1,4 @@
+import { BiBell } from 'react-icons/bi';
 import img4 from '../../assets/4.png'
 const Advantage = () => {
     return (
@@ -8,8 +9,11 @@ const Advantage = () => {
                     <h1 className='text-black font-bold lg:text-3xl text-2xl'>Why Choose BankyFy ?</h1>
                 </div>
                 <div>
-                    <h1 className="font-bold text-black">Clever Notifications</h1>
-                    <p className="text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit. In dolorum praesentium quos expedita eos veritatis nesciunt, natus recusandae ab officia illum numquam sint corporis accusamus debitis. Placeat recusandae dignissimos molestias, eum doloribus cumque. Nemo ipsa mollitia modi debitis. Beatae impedit ratione fugiat earum possimus, optio voluptas consequatur</p>
+                    <h1 className="font-bold flex items-center gap-2 mb-2 text-black">
+                        <BiBell className='bg-orange-500 text-white text-2xl rounded-full p-1'></BiBell>
+                        <span>Clever Notifications</span>
+                    </h1>
+                    <p className="text-gray-500">BankyFy is more than just a financial app; it's your personal financial advisor, committed to helping you achieve your financial goals with ease and confidence. Choose BankyFy for a smarter, more efficient way to manage your money.</p>
                 </div>
             </div>
             <div className='lg:w-1/2'>
