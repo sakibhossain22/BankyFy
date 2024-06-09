@@ -1,3 +1,9 @@
+BankyFy offers fully customizable budget management, real-time financial insights, and smart savings tools. With personalized budgeting, instant notifications, and seamless account integration, managing your money is effortless. Achieve savings goals with automated features and track investments in real time. Enjoy a user-friendly interface, top-tier security, and 24/7 support. Choose BankyFy for smarter financial management.
+
+
+
+Running the Project Locally:
+
 Clone the repository from GitHub.
 Install dependencies using npm install or yarn install.
 Run the development server using npm start or yarn start.
